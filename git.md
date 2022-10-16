@@ -88,3 +88,5 @@
 * [指令快速查询手册(图形版)](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 * [Learn Git Branching](https://learngitbranching.js.org/?locale=zh_CN)
 * [指令快速查询手册(文字版)](https://training.github.com/downloads/zh_CN/github-git-cheat-sheet/)
+
+## bug fix
